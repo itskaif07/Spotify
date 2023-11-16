@@ -56,171 +56,171 @@ let array = [
 
 {
     songName:"Tu Hai Wahi",
-    filePath:"../Assets/songs/retro/0.mp3",
-    coverPath:"../Assets/covers/retro/tu hai wahi.jpg",
+    filePath:"./Assets/songs/retro/0.mp3",
+    coverPath:"./Assets/covers/retro/tu hai wahi.jpg",
     timeStamp:"06:26",
 },
 
 {
     songName:"Likhe Jo Khat Tujhe",
-    filePath:"../Assets/songs/retro/1.mp3",
-    coverPath:"../Assets/covers/retro/likhe jo khat.jpg",
+    filePath:"./Assets/songs/retro/1.mp3",
+    coverPath:"./Assets/covers/retro/likhe jo khat.jpg",
     timeStamp:"04:48",
 },
 
 {
     songName:"O Mere Dil Ke Chain",
-    filePath:"../Assets/songs/retro/2.mp3",
-    coverPath:"../Assets/covers/retro/o mere.jpg",
+    filePath:"./Assets/songs/retro/2.mp3",
+    coverPath:"./Assets/covers/retro/o mere.jpg",
     timeStamp:"04:29",
 },
 
 
 {
     songName:"Gulaabi Aankhein",
-    filePath:"../Assets/songs/retro/3.mp3",
-    coverPath:"../Assets/covers/retro/gulaabi aankhein.jpg",
+    filePath:"./Assets/songs/retro/3.mp3",
+    coverPath:"./Assets/covers/retro/gulaabi aankhein.jpg",
     timeStamp:"03:17",
 },
 
 
 {
     songName:"Badan Pe Sitaare",
-    filePath:"../Assets/songs/retro/4.mp3",
-    coverPath:"../Assets/covers/retro/badan pe sitaare.jpg",
+    filePath:"./Assets/songs/retro/4.mp3",
+    coverPath:"./Assets/covers/retro/badan pe sitaare.jpg",
     timeStamp:"05:15",
 },
 
 {  
     songName:"Shaam Mastani",
-    filePath:"../Assets/songs/retro/5.mp3",
-    coverPath:"../Assets/covers/retro/sham mastani.jpg",
+    filePath:"./Assets/songs/retro/5.mp3",
+    coverPath:"./Assets/covers/retro/sham mastani.jpg",
     timeStamp:"04:04",
 },
 
 {
     songName:"Mere Sapno Ki Rani",
-    filePath:"../Assets/songs/retro/6.mp3",
-    coverPath:"../Assets/covers/retro/mere sapno ki rani.jpg",
+    filePath:"./Assets/songs/retro/6.mp3",
+    coverPath:"./Assets/covers/retro/mere sapno ki rani.jpg",
     timeStamp:"04:17",
 },
 
 {
     songName:"Mai Hoon Don",
-    filePath:"../Assets/songs/retro/7.mp3",
-    coverPath:"../Assets/covers/retro/Mai hoon don.jpg",
+    filePath:"./Assets/songs/retro/7.mp3",
+    coverPath:"./Assets/covers/retro/Mai hoon don.jpg",
     timeStamp:"03:20",
 },
 
 {
     songName:"Awara Hoon",
-    filePath:"../Assets/songs/retro/8.mp3",
-    coverPath:"../Assets/covers/retro/awara hu.jpg",
+    filePath:"./Assets/songs/retro/8.mp3",
+    coverPath:"./Assets/covers/retro/awara hu.jpg",
     timeStamp:"03:06",
 },
 
 {
     songName:"Neele Neele Ambar",
-    filePath:"../Assets/songs/retro/9.mp3",
-    coverPath:"../Assets/covers/retro/neele neele ambar.jpg",
+    filePath:"./Assets/songs/retro/9.mp3",
+    coverPath:"./Assets/covers/retro/neele neele ambar.jpg",
     timeStamp:"03:54",
 },
 
 {
     songName:"Tere Dar Par Sanam",
-    filePath:"../Assets/songs/retro/10.mp3",
-    coverPath:"../Assets/covers/retro/tere dar par sanam.jpg",
+    filePath:"./Assets/songs/retro/10.mp3",
+    coverPath:"./Assets/covers/retro/tere dar par sanam.jpg",
     timeStamp:"05:05",
 },
 
 {
     songName:"Zara Tasveer Se Tu",
-    filePath:"../Assets/songs/retro/11.mp3",
-    coverPath:"../Assets/covers/retro/zara tasveer se tu.jpg",
+    filePath:"./Assets/songs/retro/11.mp3",
+    coverPath:"./Assets/covers/retro/zara tasveer se tu.jpg",
     timeStamp:"05:39",
 },
 
 {
     songName:"Jadoo Teri Nazar",
-    filePath:"../Assets/songs/retro/12",
-    coverPath:"../Assets/covers/retro/jaadu teri nazar.jpg",
+    filePath:"./Assets/songs/retro/12",
+    coverPath:"./Assets/covers/retro/jaadu teri nazar.jpg",
     timeStamp:"02:37",
 },
 
 {
     songName:"Dil Se",
-    filePath:"../Assets/songs/retro/13",
-    coverPath:"../Assets/covers/retro/dil se.jpg",
+    filePath:"./Assets/songs/retro/13",
+    coverPath:"./Assets/covers/retro/dil se.jpg",
     timeStamp:"05:03",
 },
 
 {
     songName:"Kya Hua Tera Waada",
-    filePath:"../Assets/songs/retro/14",
-    coverPath:"../Assets/covers/retro/kya hua tera wada.jpg",
+    filePath:"./Assets/songs/retro/14",
+    coverPath:"./Assets/covers/retro/kya hua tera wada.jpg",
     timeStamp:"05:04",
 },
 
 {
     songName:"Kisi Ki Muskuraton Pe",
-    filePath:"../Assets/songs/retro/15",
-    coverPath:"../Assets/covers/retro/kisi ki muskurahaton.jpg",
+    filePath:"./Assets/songs/retro/15",
+    coverPath:"./Assets/covers/retro/kisi ki muskurahaton.jpg",
     timeStamp:"04:08",
 },
 
 {
     songName:"Chal Chhaiya chhaiya",
-    filePath:"../Assets/songs/retro/16",
-    coverPath:"../Assets/covers/retro/chal chhaiya.jpg",
+    filePath:"./Assets/songs/retro/16",
+    coverPath:"./Assets/covers/retro/chal chhaiya.jpg",
     timeStamp:"07:11",
 },
 
 {
     songName:"Khoya Khoya Chand",
-    filePath:"../Assets/songs/retro/17",
-    coverPath:"../Assets/covers/retro/khoya khoya chand.jpg",
+    filePath:"./Assets/songs/retro/17",
+    coverPath:"./Assets/covers/retro/khoya khoya chand.jpg",
     timeStamp:"04:43",
 },
 
 {
     songName:"Khwab Ho Tum Ya",
-    filePath:"../Assets/songs/retro/18",
-    coverPath:"../Assets/covers/retro/khwab ho tum ya.jpg",
+    filePath:"./Assets/songs/retro/18",
+    coverPath:"./Assets/covers/retro/khwab ho tum ya.jpg",
     timeStamp:"06:08",
 },
 
 {
     songName:"Chura Liya Hai",
-    filePath:"../Assets/songs/retro/19",
-    coverPath:"../Assets/covers/retro/chura liya hai.jpg",
+    filePath:"./Assets/songs/retro/19",
+    coverPath:"./Assets/covers/retro/chura liya hai.jpg",
     timeStamp:"05:30",
 },
 
 {
     songName:"Roop Tera Mastana",
-    filePath:"../Assets/songs/retro/20",
-    coverPath:"../Assets/covers/retro/roop tera.jpg",
+    filePath:"./Assets/songs/retro/20",
+    coverPath:"./Assets/covers/retro/roop tera.jpg",
     timeStamp:"03:45",
 },
 
 {
     songName:"Om Shanti Om",
-    filePath:"../Assets/songs/retro/21",
-    coverPath:"../Assets/covers/retro/om shanti om.jpg",
+    filePath:"./Assets/songs/retro/21",
+    coverPath:"./Assets/covers/retro/om shanti om.jpg",
     timeStamp:"0:18",
 },
 
 {
     songName:"O Haseena",
-    filePath:"../Assets/songs/retro/22",
-    coverPath:"../Assets/covers/retro/o haseena.jpg",
+    filePath:"./Assets/songs/retro/22",
+    coverPath:"./Assets/covers/retro/o haseena.jpg",
     timeStamp:"06:57",
 },
 
 {
     songName:"Bol Tujhko Kya Chahie",
-    filePath:"../Assets/songs/retro/23",
-    coverPath:"../Assets/covers/retro/bol tujhko kya chahie.jpg",
+    filePath:"./Assets/songs/retro/23",
+    coverPath:"./Assets/covers/retro/bol tujhko kya chahie.jpg",
     timeStamp:"06:56",
 },
 
@@ -241,7 +241,7 @@ song.forEach(function(e,i){
 
 //Masterplay
 
-let audioElement = new Audio('../Assets/songs/retro/0.mp3')
+let audioElement = new Audio('./Assets/songs/retro/0.mp3')
 let mplay = document.querySelector("#mplay")
 let mpause = document.querySelector("#mpause")
 let gif = document.querySelector("#gif")
@@ -307,7 +307,7 @@ let playPause = ()=>{
             items.childNodes[5].childNodes[1].style.display = "none"
             items.childNodes[5].childNodes[3].style.display = "block"
             songIndex = parseInt(e.target.id)
-            audioElement.src = `../Assets/songs/retro/${songIndex}.mp3`
+            audioElement.src = `./Assets/songs/retro/${songIndex}.mp3`
             mname.classList.remove('hidden')
             gif.classList.remove('hidden')
             mname.innerHTML = array[i].songName
@@ -346,7 +346,7 @@ next.addEventListener('click', function(){
 
     }
 
-    audioElement.src = `../Assets/songs/retro/${songIndex}.mp3`
+    audioElement.src = `./Assets/songs/retro/${songIndex}.mp3`
     audioElement.play()
     mname.innerHTML = array[songIndex].songName
     gif.classList.remove('hidden')
@@ -367,7 +367,7 @@ function nextPlay(){
 
     }
 
-    audioElement.src = `../Assets/songs/retro/${songIndex}.mp3`
+    audioElement.src = `./Assets/songs/retro/${songIndex}.mp3`
     audioElement.play()
     mname.innerHTML = array[songIndex].songName
     gif.classList.remove('hidden')
@@ -389,7 +389,7 @@ prev.addEventListener("click", function(){
         songIndex -= 1
     }
 
-    audioElement.src = `../Assets/songs/retro/${songIndex}.mp3`
+    audioElement.src = `./Assets/songs/retro/${songIndex}.mp3`
     audioElement.play()
     mname.innerHTML = array[songIndex].songName
     gif.classList.remove('hidden')

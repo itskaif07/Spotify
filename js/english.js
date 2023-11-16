@@ -56,191 +56,191 @@ let array = [
 
 {
     songName:"Havana",
-    filePath:"../Assets/songs/english/0.mp3",
-    coverPath:"../Assets/covers/english/havana.jpg",
+    filePath:"./Assets/songs/english/0.mp3",
+    coverPath:"./Assets/covers/english/havana.jpg",
     timeStamp:"03:38",
 },
 
 {
     songName:"Circles",
-    filePath:"../Assets/songs/english/1.mp3",
-    coverPath:"../Assets/covers/english/circles.jpg",
+    filePath:"./Assets/songs/english/1.mp3",
+    coverPath:"./Assets/covers/english/circles.jpg",
     timeStamp:"04:09",
 },
 
 {
     songName:"As It Was",
-    filePath:"../Assets/songs/english/2.mp3",
-    coverPath:"../Assets/covers/english/as it was.jpg",
+    filePath:"./Assets/songs/english/2.mp3",
+    coverPath:"./Assets/covers/english/as it was.jpg",
     timeStamp:"02:45",
 },
 
 
 {
     songName:"Dusk Till Dawn",
-    filePath:"../Assets/songs/english/3.mp3",
-    coverPath:"../Assets/covers/english/dusk till dawn.jpg",
+    filePath:"./Assets/songs/english/3.mp3",
+    coverPath:"./Assets/covers/english/dusk till dawn.jpg",
     timeStamp:"05:37",
 },
 
 {
     songName:"Friends",
-    filePath:"../Assets/songs/english/4.mp3",
-    coverPath:"../Assets/covers/english/friends.jpg",
+    filePath:"./Assets/songs/english/4.mp3",
+    coverPath:"./Assets/covers/english/friends.jpg",
     timeStamp:"03:51",
 },
 
 {
     songName:"Blinding Lights",
-    filePath:"../Assets/songs/english/5.mp3",
-    coverPath:"../Assets/covers/english/blinding nights.jpg",
+    filePath:"./Assets/songs/english/5.mp3",
+    coverPath:"./Assets/covers/english/blinding nights.jpg",
     timeStamp:"04:22",
 },
 
 {
     songName:"PillowTalk",
-    filePath:"../Assets/songs/english/6.mp3",
-    coverPath:"../Assets/covers/english/pillowtalk.jpg",
+    filePath:"./Assets/songs/english/6.mp3",
+    coverPath:"./Assets/covers/english/pillowtalk.jpg",
     timeStamp:"03:26",
 },
 
 {
     songName:"Shape Of You",
-    filePath:"../Assets/songs/english/7.mp3",
-    coverPath:"../Assets/covers/english/shape of you.jpg",
+    filePath:"./Assets/songs/english/7.mp3",
+    coverPath:"./Assets/covers/english/shape of you.jpg",
     timeStamp:"04:23",
 },
 
 {
     songName:"Faded",
-    filePath:"../Assets/songs/english/8.mp3",
-    coverPath:"../Assets/covers/english/faded.jpg",
+    filePath:"./Assets/songs/english/8.mp3",
+    coverPath:"./Assets/covers/english/faded.jpg",
     timeStamp:"03:32",
 },
 
 {
     songName:"Perfect",
-    filePath:"../Assets/songs/english/9.mp3",
-    coverPath:"../Assets/covers/english/perfect.jpg",
+    filePath:"./Assets/songs/english/9.mp3",
+    coverPath:"./Assets/covers/english/perfect.jpg",
     timeStamp:"04:39",
 },
 
 {
     songName:"Playdate",
-    filePath:"../Assets/songs/english/10.mp3",
-    coverPath:"../Assets/covers/english/playdate.jpg",
+    filePath:"./Assets/songs/english/10.mp3",
+    coverPath:"./Assets/covers/english/playdate.jpg",
     timeStamp:"03:02",
 },
 
 {
     songName:"Unstoppable",
-    filePath:"../Assets/songs/english/11.mp3",
-    coverPath:"../Assets/covers/english/unstoppable.jpg",
+    filePath:"./Assets/songs/english/11.mp3",
+    coverPath:"./Assets/covers/english/unstoppable.jpg",
     timeStamp:"03:47",
 },
 
 {
     songName:"Dandelions",
-    filePath:"../Assets/songs/english/12.mp3",
-    coverPath:"../Assets/covers/english/dandelions.jpg",
+    filePath:"./Assets/songs/english/12.mp3",
+    coverPath:"./Assets/covers/english/dandelions.jpg",
     timeStamp:"03:48",
 },
 
 {
     songName:"Let Me Love You",
-    filePath:"../Assets/songs/english/13.mp3",
-    coverPath:"../Assets/covers/english/letmeloveyou.jpg",
+    filePath:"./Assets/songs/english/13.mp3",
+    coverPath:"./Assets/covers/english/letmeloveyou.jpg",
     timeStamp:"03:25",
 },
 
 {
     songName:"Mood",
-    filePath:"../Assets/songs/english/14.mp3",
-    coverPath:"../Assets/covers/english/mood.jpg",
+    filePath:"./Assets/songs/english/14.mp3",
+    coverPath:"./Assets/covers/english/mood.jpg",
     timeStamp:"03:12",
 },
 
 {
     songName:"Bones",
-    filePath:"../Assets/songs/english/15.mp3",
-    coverPath:"../Assets/covers/english/bones.jpg",
+    filePath:"./Assets/songs/english/15.mp3",
+    coverPath:"./Assets/covers/english/bones.jpg",
     timeStamp:"02:45",
 },
 
 {
     songName:"2002",
-    filePath:"../Assets/songs/english/16.mp3",
-    coverPath:"../Assets/covers/english/2002.jpg",
+    filePath:"./Assets/songs/english/16.mp3",
+    coverPath:"./Assets/covers/english/2002.jpg",
     timeStamp:"03:14",
 },
 
 {
     songName:"Let Me Down Slowly",
-    filePath:"../Assets/songs/english/17.mp3",
-    coverPath:"../Assets/covers/english/letmedownslowly.jpg",
+    filePath:"./Assets/songs/english/17.mp3",
+    coverPath:"./Assets/covers/english/letmedownslowly.jpg",
     timeStamp:"02:57",
 },
 
 {
     songName:"Closer",
-    filePath:"../Assets/songs/english/18.mp3",
-    coverPath:"../Assets/covers/english/closer.jpg",
+    filePath:"./Assets/songs/english/18.mp3",
+    coverPath:"./Assets/covers/english/closer.jpg",
     timeStamp:"02:57",
 },
 
 {
     songName:"Lovely",
-    filePath:"../Assets/songs/english/19.mp3",
-    coverPath:"../Assets/covers/english/lovely.jpg",
+    filePath:"./Assets/songs/english/19.mp3",
+    coverPath:"./Assets/covers/english/lovely.jpg",
     timeStamp:"03:20",
 },
 
 {
     songName:"Animals",
-    filePath:"../Assets/songs/english/20.mp3",
-    coverPath:"../Assets/covers/english/animals.jpg",
+    filePath:"./Assets/songs/english/20.mp3",
+    coverPath:"./Assets/covers/english/animals.jpg",
     timeStamp:"04:40",
 },
 
 {
     songName:"All The Stars",
-    filePath:"../Assets/songs/english/21.mp3",
-    coverPath:"../Assets/covers/english/all the stars.jpg",
+    filePath:"./Assets/songs/english/21.mp3",
+    coverPath:"./Assets/covers/english/all the stars.jpg",
     timeStamp:"03:54",
 },
 
 {
     songName:"The Box",
-    filePath:"../Assets/songs/english/22.mp3",
-    coverPath:"../Assets/covers/english/the box.jpg",
+    filePath:"./Assets/songs/english/22.mp3",
+    coverPath:"./Assets/covers/english/the box.jpg",
     timeStamp:"03:32",
 },
 
 {
     songName:"Hope",
-    filePath:"../Assets/songs/english/23.mp3",
-    coverPath:"../Assets/covers/english/hope.jpg",
+    filePath:"./Assets/songs/english/23.mp3",
+    coverPath:"./Assets/covers/english/hope.jpg",
     timeStamp:"01:50",
 },
 
 {
     songName:"Starboy",
-    filePath:"../Assets/songs/english/24.mp3",
-    coverPath:"../Assets/covers/english/starboy.jpg",
+    filePath:"./Assets/songs/english/24.mp3",
+    coverPath:"./Assets/covers/english/starboy.jpg",
     timeStamp:"04:33",
 },
 
 {
     songName:"Attention",
-    filePath:"../Assets/songs/english/25.mp3",
-    coverPath:"../Assets/covers/english/attention.jpg",
+    filePath:"./Assets/songs/english/25.mp3",
+    coverPath:"./Assets/covers/english/attention.jpg",
     timeStamp:"03:51",
 },
 
 {
     songName:"Sunflower",
-    filePath:"../Assets/songs/english/26.mp3",
-    coverPath:"../Assets/covers/english/sunflower.jpg",
+    filePath:"./Assets/songs/english/26.mp3",
+    coverPath:"./Assets/covers/english/sunflower.jpg",
     timeStamp:"02:41",
 },
 
@@ -261,7 +261,7 @@ song.forEach(function(e,i){
 
 //Masterplay
 
-let audioElement = new Audio('../Assets/songs/english/0.mp3')
+let audioElement = new Audio('./Assets/songs/english/0.mp3')
 let mplay = document.querySelector("#mplay")
 let mpause = document.querySelector("#mpause")
 let gif = document.querySelector("#gif")
@@ -327,7 +327,7 @@ let playPause = ()=>{
             items.childNodes[5].childNodes[1].style.display = "none"
             items.childNodes[5].childNodes[3].style.display = "block"
             songIndex = parseInt(e.target.id)
-            audioElement.src = `../Assets/songs/english/${songIndex}.mp3`
+            audioElement.src = `./Assets/songs/english/${songIndex}.mp3`
             mname.classList.remove('hidden')
             gif.classList.remove('hidden')
             mname.innerHTML = array[i].songName
@@ -366,7 +366,7 @@ next.addEventListener('click', function(){
 
     }
 
-    audioElement.src = `../Assets/songs/english/${songIndex}.mp3`
+    audioElement.src = `./Assets/songs/english/${songIndex}.mp3`
     audioElement.play()
     mname.innerHTML = array[songIndex].songName
     gif.classList.remove('hidden')
@@ -387,7 +387,7 @@ function nextPlay(){
 
     }
 
-    audioElement.src = `../Assets/songs/english/${songIndex}.mp3`
+    audioElement.src = `./Assets/songs/english/${songIndex}.mp3`
     audioElement.play()
     mname.innerHTML = array[songIndex].songName
     gif.classList.remove('hidden')
@@ -407,7 +407,7 @@ prev.addEventListener("click", function(){
         songIndex -= 1
     }
 
-    audioElement.src = `../Assets/songs/english/${songIndex}.mp3`
+    audioElement.src = `./Assets/songs/english/${songIndex}.mp3`
     audioElement.play()
     mname.innerHTML = array[songIndex].songName
     gif.classList.remove('hidden')

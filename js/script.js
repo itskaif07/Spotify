@@ -56,192 +56,192 @@ let array = [
 
 {
     songName:"Starboy",
-    filePath:"../Assets/songs/home/0.mp3",
-    coverPath:"../Assets/covers/home/starboy.jpg",
+    filePath:"./Assets/songs/home/0.mp3",
+    coverPath:"./Assets/covers/home/starboy.jpg",
     timeStamp:"04:33",
 },
 
 {
     songName:"Often",
-    filePath:"../Assets/songs/home/1.mp3",
-    coverPath:"../Assets/covers/home/often.jpg",
+    filePath:"./Assets/songs/home/1.mp3",
+    coverPath:"./Assets/covers/home/often.jpg",
     timeStamp:"04:09",
 },
 
 {
     songName:"Attention",
-    filePath:"../Assets/songs/home/2.mp3",
-    coverPath:"../Assets/covers/home/attention.jpg",
+    filePath:"./Assets/songs/home/2.mp3",
+    coverPath:"./Assets/covers/home/attention.jpg",
     timeStamp:"03:51",
 },
 
 
 {
     songName:"Sunflower",
-    filePath:"../Assets/songs/home/3.mp3",
-    coverPath:"../Assets/covers/home/sunflower.jpg",
+    filePath:"./Assets/songs/home/3.mp3",
+    coverPath:"./Assets/covers/home/sunflower.jpg",
     timeStamp:"02:41",
 },
 
 
 {
     songName:"Zara sa",
-    filePath:"../Assets/songs/home/4.mp3",
-    coverPath:"../Assets/covers/home/zara sa.jpg",
+    filePath:"./Assets/songs/home/4.mp3",
+    coverPath:"./Assets/covers/home/zara sa.jpg",
     timeStamp:"03:43",
 },
 
 {  
     songName:"Ajab Si",
-    filePath:"../Assets/songs/home/5.mp3",
-    coverPath:"../Assets/covers/home/ajabsi.jpg",
+    filePath:"./Assets/songs/home/5.mp3",
+    coverPath:"./Assets/covers/home/ajabsi.jpg",
     timeStamp:"04:20",
 },
 
 {
     songName:"Dil Ibaadat",
-    filePath:"../Assets/songs/home/6.mp3",
-    coverPath:"../Assets/covers/home/dil ibaadat.jpg",
+    filePath:"./Assets/songs/home/6.mp3",
+    coverPath:"./Assets/covers/home/dil ibaadat.jpg",
     timeStamp:"05:29",
 },
 
 {
     songName:"Mat Aazma Re",
-    filePath:"../Assets/songs/home/7.mp3",
-    coverPath:"../Assets/covers/home/mat aazma re.jpg",
+    filePath:"./Assets/songs/home/7.mp3",
+    coverPath:"./Assets/covers/home/mat aazma re.jpg",
     timeStamp:"04:11",
 },
 
 {
     songName:"Mere Bina",
-    filePath:"../Assets/songs/home/8.mp3",
-    coverPath:"../Assets/covers/home/mere bina.jpg",
+    filePath:"./Assets/songs/home/8.mp3",
+    coverPath:"./Assets/covers/home/mere bina.jpg",
     timeStamp:"04:50",
 },
 
 {
     songName:"Hale Dil",
-    filePath:"../Assets/songs/home/9.mp3",
-    coverPath:"../Assets/covers/home/haledil.jpg",
+    filePath:"./Assets/songs/home/9.mp3",
+    coverPath:"./Assets/covers/home/haledil.jpg",
     timeStamp:"06:03",
 },
 
 {
     songName:"Kya Mujhe Pyar Hai",
-    filePath:"../Assets/songs/home/10.mp3",
-    coverPath:"../Assets/covers/home/kyamujhe.jpg",
+    filePath:"./Assets/songs/home/10.mp3",
+    coverPath:"./Assets/covers/home/kyamujhe.jpg",
     timeStamp:"04:23",
 },
 
 {
     songName:"Tu Hi Meri Shab Hai",
-    filePath:"../Assets/songs/home/11.mp3",
-    coverPath:"../Assets/covers/home/tuhimeri.jpg",
+    filePath:"./Assets/songs/home/11.mp3",
+    coverPath:"./Assets/covers/home/tuhimeri.jpg",
     timeStamp:"06:42",
 },
 
 {
     songName:"Under The Influence",
-    filePath:"../Assets/songs/home/12",
-    coverPath:"../Assets/covers/home/underTheInfluence.jpg",
+    filePath:"./Assets/songs/home/12",
+    coverPath:"./Assets/covers/home/underTheInfluence.jpg",
     timeStamp:"02:56",
 },
 
 {
     songName:"Pasoori",
-    filePath:"../Assets/songs/home/13",
-    coverPath:"../Assets/covers/home/pasoori.jpg",
+    filePath:"./Assets/songs/home/13",
+    coverPath:"./Assets/covers/home/pasoori.jpg",
     timeStamp:"02:56",
 },
 
 {
     songName:"Galliyan",
-    filePath:"../Assets/songs/home/14",
-    coverPath:"../Assets/covers/home/galliyan.jpg",
+    filePath:"./Assets/songs/home/14",
+    coverPath:"./Assets/covers/home/galliyan.jpg",
     timeStamp:"05:09",
 },
 
 {
     songName:"Jab Tak",
-    filePath:"../Assets/songs/home/15",
-    coverPath:"../Assets/covers/home/jabTak.jpg",
+    filePath:"./Assets/songs/home/15",
+    coverPath:"./Assets/covers/home/jabTak.jpg",
     timeStamp:"03:30",
 },
 
 {
     songName:"People",
-    filePath:"../Assets/songs/home/16",
-    coverPath:"../Assets/covers/home/people.jpg",
+    filePath:"./Assets/songs/home/16",
+    coverPath:"./Assets/covers/home/people.jpg",
     timeStamp:"03:17",
 },
 
 {
     songName:"Nadaan Parinde",
-    filePath:"../Assets/songs/home/17",
-    coverPath:"../Assets/covers/home/nadanParinde.jpg",
+    filePath:"./Assets/songs/home/17",
+    coverPath:"./Assets/covers/home/nadanParinde.jpg",
     timeStamp:"05:00",
 },
 
 {
     songName:"Cheques",
-    filePath:"../Assets/songs/home/18",
-    coverPath:"../Assets/covers/home/cheques.jpg",
+    filePath:"./Assets/songs/home/18",
+    coverPath:"./Assets/covers/home/cheques.jpg",
     timeStamp:"05:08",
 },
 
 {
     songName:"Until I Found You",
-    filePath:"../Assets/songs/home/19",
-    coverPath:"../Assets/covers/home/untilIFoundHer.jpg",
+    filePath:"./Assets/songs/home/19",
+    coverPath:"./Assets/covers/home/untilIFoundHer.jpg",
     timeStamp:"02:56",
 },
 
 {
     songName:"Tu Har Lamha",
-    filePath:"../Assets/songs/home/20",
-    coverPath:"../Assets/covers/home/tuHarLamha.jpg",
+    filePath:"./Assets/songs/home/20",
+    coverPath:"./Assets/covers/home/tuHarLamha.jpg",
     timeStamp:"04:21",
 },
 
 {
     songName:"Kun Faya Kun",
-    filePath:"../Assets/songs/home/21",
-    coverPath:"../Assets/covers/home/kunfayakun.jpg",
+    filePath:"./Assets/songs/home/21",
+    coverPath:"./Assets/covers/home/kunfayakun.jpg",
     timeStamp:"06:20",
 },
 
 {
     songName:"Jannatein Kahan",
-    filePath:"../Assets/songs/home/22",
-    coverPath:"../Assets/covers/home/jannateinkahan.jpg",
+    filePath:"./Assets/songs/home/22",
+    coverPath:"./Assets/covers/home/jannateinkahan.jpg",
     timeStamp:"03:58",
 },
 
 {
     songName:"Mi Amor",
-    filePath:"../Assets/songs/home/23",
-    coverPath:"../Assets/covers/home/miAmor.jpg",
+    filePath:"./Assets/songs/home/23",
+    coverPath:"./Assets/covers/home/miAmor.jpg",
     timeStamp:"03:23",
 },
 
 {
     songName:"Chaleya",
-    filePath:"../Assets/songs/home/24",
-    coverPath:"../Assets/covers/home/chaleya.jpg",
+    filePath:"./Assets/songs/home/24",
+    coverPath:"./Assets/covers/home/chaleya.jpg",
     timeStamp:"03:08",
 },
 
 {
     songName:"Bulleya",
-    filePath:"../Assets/songs/home/25",
-    coverPath:"../Assets/covers/home/bulleya.jpg",
+    filePath:"./Assets/songs/home/25",
+    coverPath:"./Assets/covers/home/bulleya.jpg",
     timeStamp:"04:33",
 },
 
 {
     songName:"Special Z",
-    filePath:"../Assets/songs/home/24",
-    coverPath:"../Assets/covers/home/jjk.jpg",
+    filePath:"./Assets/songs/home/24",
+    coverPath:"./Assets/covers/home/jjk.jpg",
     timeStamp:"03:59",
 },
 
@@ -262,7 +262,7 @@ song.forEach(function(e,i){
 
 //Masterplay
 
-let audioElement = new Audio('../Assets/songs/home/0.mp3')
+let audioElement = new Audio('./Assets/songs/home/0.mp3')
 let mplay = document.querySelector("#mplay")
 let mpause = document.querySelector("#mpause")
 let gif = document.querySelector("#gif")
@@ -328,7 +328,7 @@ let playPause = ()=>{
             items.childNodes[5].childNodes[1].style.display = "none"
             items.childNodes[5].childNodes[3].style.display = "block"
             songIndex = parseInt(e.target.id)
-            audioElement.src = `../Assets/songs/home/${songIndex}.mp3`
+            audioElement.src = `./Assets/songs/home/${songIndex}.mp3`
             mname.classList.remove('hidden')
             gif.classList.remove('hidden')
             mname.innerHTML = array[i].songName
@@ -367,7 +367,7 @@ next.addEventListener('click', function(){
 
     }
 
-    audioElement.src = `../Assets/songs/home/${songIndex}.mp3`
+    audioElement.src = `./Assets/songs/home/${songIndex}.mp3`
     audioElement.play()
     mname.innerHTML = array[songIndex].songName
     gif.classList.remove('hidden')
@@ -388,7 +388,7 @@ function nextPlay(){
 
     }
 
-    audioElement.src = `../Assets/songs/home/${songIndex}.mp3`
+    audioElement.src = `./Assets/songs/home/${songIndex}.mp3`
     audioElement.play()
     mname.innerHTML = array[songIndex].songName
     gif.classList.remove('hidden')
@@ -412,7 +412,7 @@ prev.addEventListener("click", function(){
         songIndex -= 1
     }
 
-    audioElement.src = `../Assets/songs/home/${songIndex}.mp3`
+    audioElement.src = `./Assets/songs/home/${songIndex}.mp3`
     audioElement.play()
     mname.innerHTML = array[songIndex].songName
     gif.classList.remove('hidden')
